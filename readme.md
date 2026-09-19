@@ -10,7 +10,7 @@ Click on the flags below to read the expanded documentation in your preferred la
 
 * [🇬🇧 English Documentation](helps/english_documentation.md)
 
-* [🇹🇷 Türkçe Dokümantasyon](helps/türkçe_dökümantasyon.md)
+* [🇹🇷 Türkçe Dokümantasyon](helps/Türkçe_documentation.md)
 
 * [🇩🇪 Deutsche Dokumentation](helps/german_documentation.md)
 
