@@ -8,15 +8,15 @@ This project is designed to enhance the [Havoc C2 Framework](https://github.com/
 
 Click on the flags below to read the expanded documentation in your preferred language. All files are located in the `helps/` directory.
 
-* [🇬🇧 English Documentation](helps/README_EN.md)
+* [🇬🇧 English Documentation](helps/english_documentation.md)
 
-* [🇹🇷 Türkçe Dokümantasyon](helps/README_TR.md)
+* [🇹🇷 Türkçe Dokümantasyon](helps/türkçe_dökümantasyon.md)
 
-* [🇩🇪 Deutsche Dokumentation](helps/README_DE.md)
+* [🇩🇪 Deutsche Dokumentation](helps/german_documentation.md)
 
-* [🇷🇺 Руководство на русском](helps/README_RU.md)
+* [🇷🇺 Руководство на русском](helps/russian_documentation.md)
 
-* [🇦🇿 Azərbaycanca Sənədlər](helps/README_AZ.md)
+* [🇦🇿 Azərbaycanca Sənədlər](helps/azerbaijani_documentation.md)
 
 ## ⚙️ Expanded Commands Configuration (`Commands.cc`)
 
